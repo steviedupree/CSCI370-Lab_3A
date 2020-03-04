@@ -97,6 +97,7 @@ This lab will build upon your basic Adapter knowledge. You will create a custom 
                 tools:text="Subtitle" />
         </RelativeLayout>
     </RelativeLayout>
+</android.support.constraint.ConstraintLayout>
 ```
 * Modifying the thumbnail to be an ImageView will be the **Challenge**. Get the version with TextView workking first. You can use [icons8.com](https://icons8.com/) for icons. I think 96 by 96 is a good size to get.
 * Create a Java reference to the ListView in **MainActivity.java**.
