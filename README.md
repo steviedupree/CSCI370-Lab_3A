@@ -11,7 +11,7 @@ This lab will build upon your basic Adapter knowledge. You will create a custom 
 
 ## Steps
 ### Create Views:
-* Open Android Studio and create a basic project. Name the project whatever you like, **AdvancedAdapter** is a good candidate. Choose **API 23: Android 6.0 (Marshmallow)**. Next choose just an **Empty Activity**.
+* Open Android Studio and create a basic project. Name the project whatever you like, **AdvancedAdapter** is a good candidate. Choose **The API of your choice but should be at least API 23: Android 6.0 (Marshmallow)**. Next choose just an **Empty Activity**.
 * In the **activity_main.xml**, replace the default TextView with
 ```xml
     <ListView
