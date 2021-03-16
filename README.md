@@ -49,7 +49,6 @@ This lab will build upon your basic Adapter knowledge. You will create a custom 
             android:text="CS"
             android:textAlignment="center"
             android:textSize="22dp"
-            tools:src="@mipmap/ic_launcher"
 
             />
 
